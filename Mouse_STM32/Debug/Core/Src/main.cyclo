@@ -1,0 +1,8 @@
+../Core/Src/main.c:69:6:ACCELRO_Calibrate	2
+../Core/Src/main.c:88:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:115:5:main	10
+../Core/Src/main.c:200:6:SystemClock_Config	3
+../Core/Src/main.c:246:13:MX_SPI1_Init	2
+../Core/Src/main.c:284:13:MX_USB_OTG_HS_PCD_Init	2
+../Core/Src/main.c:320:13:MX_GPIO_Init	1
+../Core/Src/main.c:364:6:Error_Handler	1

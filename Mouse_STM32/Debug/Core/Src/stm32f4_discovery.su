@@ -1,0 +1,15 @@
+../Core/Src/stm32f4_discovery.c:138:10:BSP_GetVersion	4	static
+../Core/Src/stm32f4_discovery.c:152:6:BSP_LED_Init	56	static
+../Core/Src/stm32f4_discovery.c:179:6:BSP_LED_On	16	static
+../Core/Src/stm32f4_discovery.c:193:6:BSP_LED_Off	16	static
+../Core/Src/stm32f4_discovery.c:207:6:BSP_LED_Toggle	16	static
+../Core/Src/stm32f4_discovery.c:230:6:BSP_PB_Init	40	static
+../Core/Src/stm32f4_discovery.c:269:10:BSP_PB_GetState	16	static
+../Core/Src/stm32f4_discovery.c:291:13:SPIx_Init	8	static
+../Core/Src/stm32f4_discovery.c:320:16:SPIx_WriteRead	32	static
+../Core/Src/stm32f4_discovery.c:337:13:SPIx_Error	8	static
+../Core/Src/stm32f4_discovery.c:349:13:SPIx_MspInit	40	static
+../Core/Src/stm32f4_discovery.c:378:6:ACCELERO_IO_Init	32	static
+../Core/Src/stm32f4_discovery.c:403:6:ACCELERO_IO_ITConfig	32	static
+../Core/Src/stm32f4_discovery.c:428:6:ACCELERO_IO_Write	16	static
+../Core/Src/stm32f4_discovery.c:462:6:ACCELERO_IO_Read	16	static
