@@ -1,7 +1,7 @@
 # STMouse
 STMouse is an STM32-based mouse that uses the internal accelerometer of the STM32F407VG microcontroller for motion detection and utilizes the board's internal buttons to handle left-click, right-click, and middle-click functionality. This project leverages the ARM Cortex-M4 core and the integrated LIS3DSH accelerometer to track movement, while the built-in buttons provide essential mouse inputs, making the design both compact and efficient.
 
-The mouse communicates with a computer via the USB HID interface, ensuring plug-and-play usability. This project highlights the versatility of the STM32 microcontroller and its internal components for building functional input devices with minimal external hardware.
+The mouse communicates with a computer via the USB HID interface, ensuring plug-and-play usability. This project highlights the versatility of the STM32 microcontroller and its internal components for building functional input devices with minimal external hardware.  
 
 ## Requirements
 
